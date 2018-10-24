@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo QR</string>
+    <string name="scan_qr_code">SCANEAR</string>
+    <string name="result_not_found">Resultado no encontrado</string>
+</resources>
